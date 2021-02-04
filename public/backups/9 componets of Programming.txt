@@ -1,0 +1,18 @@
+9 components of Programming
+
+1. Input- Keyboard, Touch screen, mouse, joystick
+   Output - Screen, Audio, Vibration.
+
+2. Storage - Locations are called - Variable - They can change
+
+3. Decisions - "If" Statements 
+     if (x <= 15) (hit object)
+
+4. Loops    For (x=0;   x < 100;  x++){ do something }
+
+5. Arrays - Fancy Numbered variables.
+      x[1] = 5
+      x[2] = "hello"
+      x[3] = "mr. Jones"
+
+Grasshopper learn to code
